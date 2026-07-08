@@ -1,0 +1,37 @@
+<form>
+
+<input type="text" placeholder="Issue Title">
+
+<select>
+
+<option>Electricity</option>
+
+<option>Water</option>
+
+<option>Security</option>
+
+<option>Road</option>
+
+<option>School Facility</option>
+
+</select>
+
+<textarea placeholder="Describe the issue"></textarea>
+
+<select>
+
+<option>Akungba</option>
+
+<option>Iwaro</option>
+
+<option>Etioro</option>
+
+<option>Ayegunle</option>
+
+</select>
+
+<input type="file">
+
+<button>Submit Report</button>
+
+</form>
