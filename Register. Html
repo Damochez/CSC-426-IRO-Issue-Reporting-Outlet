@@ -1,0 +1,35 @@
+<form>
+
+<input type="text" placeholder="Full Name">
+
+<input type="email" placeholder="Email">
+
+<input type="text" placeholder="Phone Number">
+
+<select>
+
+<option>Student</option>
+
+<option>Indigene</option>
+
+</select>
+
+<select>
+
+<option>Akungba</option>
+
+<option>Iwaro</option>
+
+<option>Etioro</option>
+
+<option>Ayegunle</option>
+
+</select>
+
+<input type="password" placeholder="Password">
+
+<input type="password" placeholder="Confirm Password">
+
+<button>Register</button>
+
+</form>
