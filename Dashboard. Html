@@ -1,0 +1,39 @@
+<table border="1">
+
+<tr>
+
+<th>ID</th>
+
+<th>Issue</th>
+
+<th>Community</th>
+
+<th>Status</th>
+
+</tr>
+
+<tr>
+
+<td>001</td>
+
+<td>Bad Road</td>
+
+<td>Akungba</td>
+
+<td>Pending</td>
+
+</tr>
+
+<tr>
+
+<td>002</td>
+
+<td>No Water</td>
+
+<td>Iwaro</td>
+
+<td>Resolved</td>
+
+</tr>
+
+</table>
